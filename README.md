@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Oliveira desenvolvedor Mobile e estudante de tecnologia😉
 
-- 🔭 Desenvolvo para plataformas Mobile
+- 🔭 Futuro desenvolvedor full-stack
 - 👨‍💻 Sou um orgulhoso desenvolvedor formado pelo Bootcamp Pessoa Desenvolvedora Mobile oferecido pela Generation Brasil
-- 📚 Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FACULDADE IMPACTA - IMPACTA
+- 📚 Cursando Desenvolvimento de Sistemas Para Internet - FACULDADE IMPACTA TECNOLOGIA
 - 😄 Pronouns: he/ele/dele
 
 <div align="center">
