@@ -2,7 +2,7 @@
 
 - 🔭 Futuro desenvolvedor full-stack
 - 👨‍💻 Sou um orgulhoso desenvolvedor formado pelo Bootcamp Pessoa Desenvolvedora Mobile oferecido pela Generation Brasil
-- 📚 Cursando Desenvolvimento de Sistemas Para Internet - FACULDADE IMPACTA TECNOLOGIA
+- 📚 Cursando Desenvolvimento de Sistemas - FACULDADE IMPACTA TECNOLOGIA
 - 😄 Pronouns: he/ele/dele
 
 <div align="center">
