@@ -14,13 +14,13 @@
 ## Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
-      <img align="center" alt="Matheus-Java" title ="Java" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+      <img align="center" alt="Matheus-Java" title ="Java" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
       <img align="center" alt="Matheus-Android" title ="Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
       <img align="center" alt="Matheus-Kotlin" title ="Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
       <img align="center" alt="Matheus-HTML"  title ="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Matheus-CSS" title ="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Matheus-JS" title ="JavaScript" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Matheus-MySql" title="MySql" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" alt="Matheus-MySql" title="MySql" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="Matheus-GIT" title ="GIT" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
       <img align="center" alt="Matheus-Figma" title ="Figma" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div><br>
