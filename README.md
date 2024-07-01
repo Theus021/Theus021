@@ -21,7 +21,7 @@
       <img align="center" alt="Matheus-CSS" title ="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Matheus-JS" title ="JavaScript" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Matheus-MySql" title="MySql" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="Matheus-GIT" title ="GIT" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+      <img align="center" alt="Matheus-GIT" title ="GIT" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" alt="Matheus-Figma" title ="Figma" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div><br>
 
